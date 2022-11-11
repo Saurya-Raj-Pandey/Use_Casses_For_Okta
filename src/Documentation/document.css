@@ -1,0 +1,22 @@
+.header{
+    text-align:center;
+    font-family: cursive;
+    padding: 2%;
+    }
+.header.Accordion{
+    border-radius: 30px 50px 20px 80px;
+}
+.docHeader{
+    animation:blinkingText 1.2s infinite;
+    text-align: center;
+    background-color: rgb(107, 193, 250);      
+    font-family: cursive;
+    border-radius: 200px  ;
+    padding: 15%;
+}
+.docHeader h1{
+    border: 10px double black;
+    animation:blinkingText 1.2s infinite;
+    color: rgb(179, 51, 51);
+    border-radius: 30px 50px 20px 80px;
+}

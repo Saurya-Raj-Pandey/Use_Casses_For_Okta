@@ -1,0 +1,17 @@
+.Homepage{
+    border-radius: 10px;
+   border: 10px solid rgb(40, 167, 218);
+   
+}
+.Homepage:hover{
+          opacity: 0.9;
+}
+.maincontainer{
+    padding: 5%;
+    background-color: rgb(85, 197, 228);
+    text-align: center;
+    background-image: url("../../bg.png");
+    background-repeat: no-repeat;
+    background-blend-mode:color-burn;
+    background-position: 50%;
+}
