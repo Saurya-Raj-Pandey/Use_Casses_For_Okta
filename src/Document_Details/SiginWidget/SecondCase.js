@@ -30,6 +30,7 @@ function SecondCase() {
           <img
             src="../Use_cases/Activating_With_Pwd_RQ/ActivatingwithpwdandRq.png"
             alt="hwllo"
+            style={{ height: "120ch" }}
           />
         </p>
         <h5>

@@ -2,8 +2,6 @@
     text-align: left;
     padding-left: 15px;
 }
-.img{
-display:ruby-text;
-
-
+.Text.img{
+    width: 100%;
 }

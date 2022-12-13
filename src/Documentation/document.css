@@ -2,21 +2,57 @@
     text-align:center;
     font-family: cursive;
     padding: 2%;
-    }
+   
+}
+
+
+  
+    
 .header.Accordion{
-    border-radius: 30px 50px 20px 80px;
+    border-radius: 10px;
 }
 .docHeader{
     animation:blinkingText 1.2s infinite;
     text-align: center;
-    background-color: rgb(107, 193, 250);      
+    background-color: rgba(50, 158, 230, 0.711);      
     font-family: cursive;
     border-radius: 200px  ;
     padding: 15%;
+      /* background-image: url("../bg.png");
+      background-repeat: no-repeat;
+   background-position: 30% 50% 50% 80%; */
 }
 .docHeader h1{
-    border: 10px double black;
+    border: 10px  rgba(24, 1, 1, 0.788);
     animation:blinkingText 1.2s infinite;
     color: rgb(179, 51, 51);
     border-radius: 30px 50px 20px 80px;
+}
+
+
+.accordion-button {
+  background-color: rgba(0, 0, 0, 0.884) !important;
+  border-radius: 50px ;
+}
+
+
+.accordion-button:not(.collapsed) {
+  color: #50f06b;
+}
+button.accordion-button.collapsed{
+    color: rgba(255, 255, 255, 0.829);
+}
+.accordion-button:not(.collapsed)::after {
+    
+    filter: hue-rotate(270deg) !important;
+}
+
+.accordion-body{
+    background-color:  rgb(145, 188, 217);
+}
+
+
+
+.accordion-item:last-of-type .accordion-collapse.img{
+    width: 100%;
 }

@@ -21,7 +21,6 @@ export default function CreateUserWithPwdAndRq() {
         width: "1250px",
         border: "10px solid gray",
         borderRadius: "90px",
-        backgroundImage: "url('http://localhost:3000/bg.png')",
       }}
     >
       <h1> Create User With Pwd And Rq</h1>

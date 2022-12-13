@@ -20,7 +20,6 @@ export default function ActivateUserWithRecoveryquestion() {
         width: "1250px",
         border: "10px solid gray",
         borderRadius: "90px",
-        backgroundImage: "url('http://localhost:3000/bg.png')",
       }}
     >
       <h1> Activating the User With Recovery Question</h1>

@@ -25,7 +25,7 @@ export default function NavbarFile() {
           <Nav.Link href="/document" style={{ marginRight: "20px" }}>
             Documentation
           </Nav.Link>
-          <NavDropdown
+          {/* <NavDropdown
             title="Collections for Signin Widget"
             id="collasible-nav-dropdown"
           >
@@ -68,7 +68,7 @@ export default function NavbarFile() {
             <NavDropdown.Item href="/UserWithNonDefault">
               Creating User With Non-Default
             </NavDropdown.Item>
-          </NavDropdown>
+          </NavDropdown> */}
         </Nav>
       </Navbar.Collapse>
     </Navbar>

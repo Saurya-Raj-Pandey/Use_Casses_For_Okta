@@ -19,7 +19,6 @@ export default function UserInGroup() {
         width: "1250px",
         border: "10px solid gray",
         borderRadius: "90px",
-        backgroundImage: "url('http://localhost:3000/bg.png')",
       }}
     >
       <h1> Enrolling the user into Group</h1>

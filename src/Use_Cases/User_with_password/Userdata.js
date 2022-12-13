@@ -19,7 +19,6 @@ export default function UserWithPassword() {
         width: "1250px",
         border: "10px solid gray",
         borderRadius: "90px",
-        backgroundImage: "url('http://localhost:3000/bg.png')",
       }}
     >
       <h1> Create User with Password</h1>

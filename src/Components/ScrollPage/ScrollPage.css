@@ -1,0 +1,6 @@
+.Scrollbar{
+    right: 20% !important;
+}
+.Scrollbar.ScrollToTop{
+     right: 10%
+}

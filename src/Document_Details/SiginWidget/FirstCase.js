@@ -53,10 +53,10 @@ function FirstCase() {
           <li>
             Now have <b>.post()</b> which is passed to activate to the user or
             not to so in the case above it is set as false as
-            "/users?activate=false".The person here is the
+            "/users?activate=false".The person here we have inputed
             <b>(Fig:Credentials.js)</b> as you can see below .So in this file we
             have the JSON format for the data we have used in this program and
-            we can see the we have the details for the User Creation with it's
+            we can see , we have the details for the User Creation with it's
             User creation with Password and Recovery Question with these
             requirements
             <b>

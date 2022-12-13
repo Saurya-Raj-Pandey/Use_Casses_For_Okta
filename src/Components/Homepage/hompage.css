@@ -1,6 +1,7 @@
 .Homepage{
     border-radius: 10px;
-   border: 10px solid rgb(40, 167, 218);
+   border: 10px solid rgb(40, 167, 218) ;
+   
    
 }
 .Homepage:hover{
@@ -8,7 +9,7 @@
 }
 .maincontainer{
     padding: 5%;
-    background-color: rgb(85, 197, 228);
+    background-color:rgb(107, 193, 250);
     text-align: center;
     background-image: url("../../bg.png");
     background-repeat: no-repeat;

@@ -30,6 +30,7 @@ function SeventhCase() {
           <img
             src="/Use_cases/User_With_Recovery_Question/User_with_Recovery_Question_Code.png"
             alt="hwllo"
+            style={{ height: "100ch" }}
           />
         </p>
         <h5>

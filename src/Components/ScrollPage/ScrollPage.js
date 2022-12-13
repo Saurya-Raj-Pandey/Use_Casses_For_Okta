@@ -1,11 +1,10 @@
 import React from "react";
 import ScrollToTop from "react-scroll-to-top";
+import "./ScrollPage.css";
 function ScrollPage() {
   return (
-    <div>
-      <div style={{ marginTop: "5vh", color: "red" }} />
-
-      <ScrollToTop smooth />
+    <div className="Scrollbar">
+      <ScrollToTop smooth style={{ right: "10%" }} />
     </div>
   );
 }

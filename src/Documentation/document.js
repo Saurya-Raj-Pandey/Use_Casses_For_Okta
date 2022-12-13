@@ -51,7 +51,7 @@ import { SdkApiControlledPopup } from "../Components/Snippet/Sdk/ControlledPopup
 function Document() {
   return (
     <div className="docHeader">
-      <h1>Click on the Subject according to the Requirement bellow</h1>
+      <h1>Use-cases documentation with codes</h1>
       <div className="header">
         {/* SignIn widget */}
         <Accordion defaultActiveKey="0">

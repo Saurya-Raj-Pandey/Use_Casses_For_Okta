@@ -16,7 +16,7 @@ import UserWithNonDefault from "./Use_Cases/User_with_Non_Default_user_type/User
 import NavbarFile from "./Navbar";
 import { Routes, Route } from "react-router-dom";
 import Footer from "./Components/Footer/Footer";
-
+import KommunicateChat from "./Components/LiveChat/livechat";
 export default function App() {
   return (
     <>
@@ -59,7 +59,7 @@ export default function App() {
         <Route path="/UserInGroup" element={<UserInGroup />} />
         <Route path="/UserWithNonDefault" element={<UserWithNonDefault />} />
       </Routes>
-
+      <KommunicateChat />
       <Footer />
     </>
   );

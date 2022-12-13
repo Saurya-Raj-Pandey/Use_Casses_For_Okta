@@ -30,6 +30,7 @@ function FourthCase() {
           <img
             src="../Use_cases/Activating_User_Without_Credentials/Activating_User_Without_Credentials_Code.png"
             alt="hwllo"
+            style={{ height: "120ch" }}
           />
         </p>
         <h5>
